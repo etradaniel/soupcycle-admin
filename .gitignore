@@ -1,1 +1,9 @@
+log/*
 .DS_Store
+tmp/*
+/config/gpg.yml
+/config/database.yml
+*.sublime-*
+dump.rdb
+default.vim
+default.vim.lock
